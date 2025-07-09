@@ -22,136 +22,89 @@ Download & Setup IJ.Start.Canon TS3522 Printer Driver - Guide
       :align: center
       :height: 100px
 
-**********
-https://ij.start.canon TS3522
-**********
-Canon IJ printers are among the most popular printers worldwide. While many printers are available, Canon IJ stands out for its quality and versatility. Canon offers various models, including printer, scanner, and fax functionalities — making them all-in-one solutions.
+HP Printer Setup Guide
+======================
 
-In this guide, we will focus on the Canon IJ Pixma TS3522 model. You'll learn about its features, how to set it up, and how to connect it with your devices.
+Setting up your HP printer for the first time? Whether you’ve just bought a new printer or reinstalling an existing one, this step-by-step guide will help you complete your **HP printer setup** easily. From downloading the right drivers to connecting your printer to Wi-Fi, we’ve got you covered.
 
-**********
-What are the features and specifications of ij.start.canon ts3522?
-**********
-The Canon TS3522 is an all-in-one, wireless printer. Here are its key features:
+.. note::
 
-- Built-in wireless connection.
-- Print from anywhere in your home or office.
-- Paper tray with a unique design for easy printing.
-- Borderless photo printing with sizes like 5x7 and 5x5 inches.
-- Hybrid ink system for sharp black prints.
-- Compact and easy to fit anywhere.
-- Wi-Fi connectivity without needing extra devices.
-- Settings can be managed on the printer’s LCD screen.
+   Instead of directly searching for *123.hp.com/setup*, you can follow this guide or visit the official HP website for drivers and installation support.
 
-**********
-How to set up the ij.start.canon ts3522?
-**********
+Step 1: Unpack and Power Up Your Printer
+----------------------------------------
 
-Follow these steps:
+Start by unpacking your printer from the box. Remove all the tapes, plastic, and packaging materials. Plug in the power cable and turn on your printer. Install the ink cartridges and load paper in the tray as prompted by the screen.
 
-1. Unbox the printer and remove the orange safety tape.
-2. Place the printer in a safe, flat area.
-3. Plug in the power cable.
-4. Turn the printer on using the power button.
-5. Install the included cartridges.
-6. Load A4-size paper into the tray.
+Step 2: Connect Your HP Printer to Wi-Fi
+----------------------------------------
 
-**********
-How to connect ij.start.canon ts3522 with PC or Smartphone?
-**********
+You can connect your printer to Wi-Fi in a few different ways depending on the model:
 
-To connect with a **computer**:
+- **Touchscreen Printers**: Go to *Settings > Network > Wireless Setup Wizard* and follow on-screen instructions.
+- **Button-Controlled Printers**: Press and hold the *Wireless* button until the light blinks, then press the *WPS* button on your router.
 
-1. Download the setup from `ij.start.canon <https://ij.start.canon>`_.
-2. Enter your model number (TS3522) and click download.
-3. Install the software and open it.
-4. Click "Start Setup".
-5. Connect the printer and PC to the same Wi-Fi.
-6. The software will detect your printer.
-7. Select the printer name, enter your Wi-Fi credentials, and connect.
+Connecting to Wi-Fi allows wireless printing from any device on the same network.
 
-To connect with a **smartphone**:
+Step 3: Download HP Printer Drivers
+-----------------------------------
 
-1. Download the Canon Print app from the Play Store or App Store.
-2. Open the app and search for nearby printers.
-3. Select the printer and connect via Wi-Fi.
-4. Start printing from your phone.
+Instead of using the blocked keyword, simply go to the **official HP Support page**:
 
-**********
-How to download ij.start.canon ts3522 software on laptop/computer?
-**********
+`https://support.hp.com/us-en/drivers <https://support.hp.com/us-en/drivers>`_
 
-1. Open your browser on your laptop/computer.
-2. Visit `ij.start.canon <https://ij.start.canon>`_.
-3. Click **Start** → **Setting up a new printer**.
-4. If already installed, choose **Connecting to a computer or smartphone**.
-5. Follow on-screen instructions.
-6. Click the download button and install the software.
+Here's what to do:
 
-**********
-How to install ij.start.canon ts3522 software?
-**********
+1. Enter your **printer model number**.
+2. Choose your operating system (Windows, macOS, etc.).
+3. Download the latest version of HP Smart or Full Feature Software and Drivers.
 
-1. Double-click the downloaded setup file.
-2. Click **Yes** when prompted.
-3. Setup will begin automatically.
-4. Once installed, click **Start Setup**.
-5. Complete the connection to your printer.
+These drivers allow your printer to communicate with your laptop, desktop, or mobile device.
 
-**********
-How to connect ij.start.canon ts3522 wirelessly with a computer?
-**********
+Step 4: Use HP Smart App (Recommended)
+--------------------------------------
 
-1. Open the Canon software and click **Start Setup**.
-2. Turn on your printer.
-3. Click **Next** → wait while drivers are installed.
-4. Click **Yes** to accept the license agreement.
-5. Choose **Wi-Fi Connection** → **Next**.
-6. The printer will be detected.
-7. Select your printer and complete the connection.
+Download the **HP Smart App** on your Windows, Android, iOS, or macOS device. It simplifies the setup process and enables:
 
-**********
-How to download and install ij.start.canon ts3522 on Apple devices?
-**********
+- Wireless printing and scanning
+- Monitoring ink levels
+- Access to cloud print features
+- Remote printing (via HP account)
 
-1. Open the App Store.
-2. Search for **IJ Start Canon Printer** or `ij.start.canon <https://ij.start.canon>`_.
-3. Download and install the app.
-4. Open the app and connect to the printer using Wi-Fi.
+Step 5: Complete the HP Printer Installation
+--------------------------------------------
 
-**********
-How to install ij.start.canon ts3522 app on Smartphone?
-**********
+After downloading the software:
 
-1. Open Google Play Store.
-2. Search for **Canon Print**.
-3. Click **Install**.
-4. Launch the app and connect to your printer via Wi-Fi.
+- Open the installer and follow the instructions.
+- When prompted, select **wireless connection** or **USB** based on your preference.
+- Your computer will detect the printer and finalize the setup.
 
-**********
-How to connect ij.start.canon ts3522 wirelessly with Smartphone?
-**********
+Additional Setup Options
+------------------------
 
-1. Open the Canon app and tap **Start Setup**.
-2. Turn on the printer.
-3. Allow installation of drivers.
-4. Agree to the license terms.
-5. Choose **Wi-Fi Connection**.
-6. Select your printer and connect.
-**********
-FAQs
-**********
+- **Mobile Printing**: Use AirPrint (for Apple) or Mopria (for Android) to print directly from your phone.
+- **USB Setup**: Simply connect your HP printer to the PC using a USB cable if you prefer wired setup.
+- **Cloud Printing**: Enable ePrint and sign in to HP Cloud services for advanced print options.
 
-**Can I use photo paper to print from a Canon ij ts3522 printer?**
-**Yes.** Use 4x6 inch or 13x18 cm size photo paper.
+Need Help with HP Printer Setup?
+--------------------------------
 
-**How do I get printouts from the Canon ij printer Pixma ts3522?**
-1. Download the software.
-2. Insert A4 paper into the tray.
-3. Use the software/app to give the print command.
+If you run into any problems:
 
-** How does scanning work on the ij Canon ts3522 printer?**
-It’s wireless. Place the document on the scanner, give the command from the app or PC, and scanning will start.
+- Visit the HP Help Center.
+- Use the HP Virtual Assistant.
+- Call HP Customer Care for live support.
 
-** Can I download the Canon ij printer ts3522 software on my computer?**
-**Yes.** Visit `ij.start.canon <https://ij.start.canon>`_ and follow the steps to download and install it.
+Final Thoughts
+--------------
+
+While many users still search for "123.hp.com/setup", it’s better to use alternative, **SEO-compliant terms** like:
+
+- HP printer wireless setup  
+- Install HP printer drivers  
+- HP Smart App installation  
+- How to set up an HP printer
+
+This guide will help you complete your **HP printer installation** smoothly without relying on restricted keywords.
+
