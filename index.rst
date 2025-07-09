@@ -3,7 +3,7 @@ Safe & Easy HP Printer Setup Guide - 123 HP
 ##################
 
 .. meta::
-   :msvalidate.01: EC1CC2EBFA11DD5C3D82B1E823DE7278
+   :msvalidate.01: ECDBE84ED19B1192A41890640F378D79
 
 .. image:: blank.png
       :width: 350px
