@@ -1,1 +1,1 @@
-# IJ Start Canon TS3522 Printer Setup Guide
+# 123 HP Setup Guide
