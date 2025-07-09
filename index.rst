@@ -1,5 +1,5 @@
 ##################
-Download & Setup IJ.Start.Canon TS3522 Printer Driver - Guide
+Safe & Easy HP Printer Setup Guide - 123 HP 
 ##################
 
 .. meta::
@@ -8,19 +8,19 @@ Download & Setup IJ.Start.Canon TS3522 Printer Driver - Guide
 .. image:: blank.png
       :width: 350px
       :align: center
-      :height: 100px
+      :height: 10px
 
 .. image:: Enter_Product_Key.png
-      :width: 350px
+      :width: 250px
       :align: center
-      :height: 100px
-      :alt: ij.start.canon
+      :height: 80px
+      :alt: HP Setup
       :target: #
 
 .. image:: blank.png
       :width: 350px
       :align: center
-      :height: 100px
+      :height: 10px
 
 HP Printer Setup Guide
 ======================
