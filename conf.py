@@ -16,19 +16,11 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Canon Support'
+project = 'HP Setup Guide'
 
 
 # The full version, including alpha/beta/rc tags
 #release = '1.0.0'
-
-
-
-html_meta = {
-    "msvalidate.01": "EC1CC2EBFA11DD5C3D82B1E823DE7278"
-   
-}
-
 
 
 
